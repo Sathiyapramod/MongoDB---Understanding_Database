@@ -1,0 +1,20 @@
+[
+    {
+        id:'Steve',
+        menteecount:25,
+        topics:'html',
+        email:'steve@mail.com'
+    },
+    {
+        id:'Sameer',
+        menteecount:90,
+        topics:'DSA',
+        email:'sameer@mail.com'
+    },
+    {
+        id:'Kumar',
+        menteecount:45,
+        topics:'Javascript',
+        email:'kumar@mail.com'
+    }
+]
